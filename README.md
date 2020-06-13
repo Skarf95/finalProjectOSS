@@ -21,10 +21,10 @@ you are far away from the printer
 
 ## How do I get started?
 
-'''
+```
 sudo apt-get update
 sudo apt-get upgrade
-'''
+```
 
 ## Where can I get more help, if I need it?
 https://circuitdigest.com/microcontroller-projects/raspberry-pi-print-server
