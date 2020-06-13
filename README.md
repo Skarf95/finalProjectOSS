@@ -71,6 +71,7 @@ read only = no
 https://circuitdigest.com/microcontroller-projects/raspberry-pi-print-server
 
 ## Presentation video
+https://www.youtube.com/watch?v=tHzy-YWRzpA
 
 ## License
  
