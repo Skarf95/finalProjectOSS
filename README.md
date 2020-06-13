@@ -1,5 +1,5 @@
 # Raspberry Pi Print Server using CUPS
-Final Project
+Final Project OSSLAB03
 
 ## What does this project do?
 
